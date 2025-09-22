@@ -2,4 +2,4 @@
 title: "Hello  World!"
 ---
 
-This page is built from **Quarto**. Edit this `.qmd`, commit, and an Action will render & publish your site. HI
+This page is built from **Quarto**. Edit this `.qmd`, commit, and an Action will render & publish your site. 
